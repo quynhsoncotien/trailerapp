@@ -1,0 +1,22 @@
+{
+  "id_app": "",
+  "times_clicked": 3,
+  "ads_info": [
+    {
+      "id_app": "ca-app-pub-5372862349743986~2319761159",
+      "id_banner": "ca-app-pub-5372862349743986/3796494356",
+      "id_popup": "ca-app-pub-5372862349743986/5273227550",
+      "id_video": "ca-app-pub-5372862349743986/3866134188",
+      "type": "admob"
+    },
+    {
+      "id_app": "1273730",
+      "type": "unity"
+    },
+    {
+      "id_app": "5c3eb7043be4980c28a9e98c",
+      "app_signature": "b45b026d05ed7cae691958a650bbecdad6f737f0",
+      "type": "charboost"
+    }
+  ]
+}
