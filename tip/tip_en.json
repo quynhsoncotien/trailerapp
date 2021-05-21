@@ -1,0 +1,154 @@
+{
+  "4": {
+    "content": "Idea for an important moment: Record a video for your unborn child when you first find out they're growing inside you.",
+    "type": "simple"
+  },
+  "5": {
+    "content": "Take a pregnancy test at home. If pregnant, most tests will show two strips. Congratulations!",
+    "type": "simple"
+  },
+  "6": {
+    "content": "You may feel unwell; toxicosis and heartburn are common. Follow nutritional advice and talk to your doctor.",
+    "type": "simple"
+  },
+  "7": {
+    "content": "Now is the most crucial period of pregnancy. How your baby develops depends on your lifestyle and proper nutrition.",
+    "type": "simple"
+  },
+  "8": {
+    "content": "Your physician needs data about your blood pressure. Set up reminders for regular measurements.",
+    "type": "pressure"
+  },
+  "9": {
+    "content": "Your tummy is nicely rounded. Start measuring it regularly; this information will help your doctor.",
+    "type": "belly"
+  },
+  "10": {
+    "content": "In the next 3 weeks, go for an ultrasound. Doing it now helps prevent potential issues in your child's development.",
+    "type": "simple"
+  },
+  "11": {
+    "content": "Up to 13 weeks of pregnancy is high risk for malformations of the baby. Watch your food intake and overall wellbeing.",
+    "type": "simple"
+  },
+  "12": {
+    "content": "Monitor your weight carefully. This will help avoid possible complications during pregnancy.",
+    "type": "weight"
+  },
+  "13": {
+    "content": "The first trimester of your pregnancy has ended. You still have outstanding items on your checklist.",
+    "type": "checklist"
+  },
+  "14": {
+    "content": "Being well rested and actively walking will help avoid many complications during pregnancy.",
+    "type": "simple"
+  },
+  "15": {
+    "content": "Hypertension occurs in 40% of pregnancies. Measure your blood pressure regularly, report results to your doctor.",
+    "type": "pressure"
+  },
+  "16": {
+    "content": "Pregnancy increases health issues. Closely monitor any conditions, especially chronic illnesses.",
+    "type": "simple"
+  },
+  "17": {
+    "content": "Take care of your body after childbirth. Now stay active, walk more often, do stretches.",
+    "type": "simple"
+  },
+  "18": {
+    "content": "Baby starts kicking – an important event. Tell your doctor. About 20 weeks between first occurrence and giving birth.",
+    "type": "kicks"
+  },
+  "19": {
+    "content": "Your physician needs data about your blood pressure. Set up reminders for regular measurements.",
+    "type": "pressure"
+  },
+  "20": {
+    "content": "In 20-24 weeks, a second ultrasound is performed to detect congenital malformations of the fetus. Open Checklist.",
+    "type": "checklist"
+  },
+  "21": {
+    "content": "Already feel the baby? Time to track their movement! This is important information for monitoring fetal development.",
+    "type": "kicks"
+  },
+  "22": {
+    "content": "Monitor your weight carefully. This will help avoid possible complications during pregnancy.",
+    "type": "weight"
+  },
+  "23": {
+    "content": "Proper nutrition and cutting bad habits reduces risk of complications in your baby's development. Read Nutrition Tips.",
+    "type": "food"
+  },
+  "24": {
+    "content": "Being well rested and actively walking will help avoid many complications during pregnancy.",
+    "type": "simple"
+  },
+  "25": {
+    "content": "Your baby should move 10-15 times per an hour. Keep kicking in mind, immediately report any abnormalities to your doctor.",
+    "type": "kicks"
+  },
+  "26": {
+    "content": "How to tell a real contraction from a fake one? When should you go to the hospital? Read Help in Counting Contractions.",
+    "type": "contractions"
+  },
+  "27": {
+    "content": "The second trimester of your pregnancy has ended. You still have outstanding items on your checklist.",
+    "type": "checklist"
+  },
+  "28": {
+    "content": "Your physician needs data about your blood pressure. Set up reminders for regular measurements.",
+    "type": "pressure"
+  },
+  "29": {
+    "content": "Watch your baby move. Immediately go to the doctor if there is no movement for 12 hours or they seem too active.",
+    "type": "kicks"
+  },
+  "30": {
+    "content": "Being well rested and actively walking will help avoid many complications during pregnancy.",
+    "type": "simple"
+  },
+  "31": {
+    "content": "Pay attention to false labor. How do you know if it's that or preterm onset labor? Read Help in Counting Contractions.",
+    "type": "contractions"
+  },
+  "32": {
+    "content": "It's time to collect your things for the hospital. Use tips in the App.",
+    "type": "checklist"
+  },
+  "33": {
+    "content": "Watch your weight carefully. Extra pounds will complicate childbirth and subsequent recovery.",
+    "type": "weight"
+  },
+  "34": {
+    "content": "How to reduce pain during childbirth? Read Help in Counting contractions.",
+    "type": "contractions"
+  },
+  "35": {
+    "content": "You need to closely monitor your blood pressure, especially if you feel worse than usual this week.",
+    "type": "pressure"
+  },
+  "36": {
+    "content": "You're going to meet your baby very soon! Hurry to fulfill all the recommendations before going to the hospital.",
+    "type": "checklist"
+  },
+  "37": {
+    "content": "Idea for an important moment: Record a video for your baby just before giving birth. Read tips.",
+    "type": "simple"
+  },
+  "38": {
+    "content": "Breathe deeply, change positions more often... What should I do to reduce my pain during contractions?",
+    "type": "simple"
+  },
+  "39": {
+    "content": "Only 5% of children are born on a \"reference\" period of 40 weeks. Most – 85% – are born a week before or after 40 weeks.",
+    "type": "simple"
+  },
+  "40": {
+    "content": "Take care of everything you need after discharge. Is everything ready for the baby at home? Open Checklists.",
+    "type": "checklist"
+  },
+  "41": {
+    "content": "You will be a great mom! Learn how to care for little ones during the first days of their life.",
+    "type": "babycare"
+  }
+}
