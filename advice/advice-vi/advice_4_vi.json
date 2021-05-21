@@ -1,0 +1,27 @@
+{
+    "week": 4,
+   "read_time": 120000,
+   "advices": [
+     {
+       "advice": "Thử thai tại nhà"
+     },
+     {
+       "advice": "Tránh chế độ ăn kiêng đặc biệt và liệu pháp lim xanh"
+     },
+     {
+       "advice": "Tránh căng thẳng và căng thẳng cảm xúc"
+     },
+     {
+       "advice": "Tránh xa thuốc lá và rượu"
+     },
+     {
+       "advice": "Hoàn toàn tránh thức ăn nhanh và béo"
+     },
+     {
+       "advice": "Đi dạo"
+     },
+     {
+       "advice": "Uống vitamin"
+     }
+   ]
+}

@@ -1,0 +1,27 @@
+{
+  "week": 2,
+  "reading_time": 120000,
+  "advices": [
+    {
+      "advice": "Avoid tobacco and alcohol"
+    },
+    {
+      "advice": "Take between 400-800 micrograms of folic acid daily"
+    },
+    {
+      "advice": "Avoid X-rays and fluorography"
+    },
+    {
+      "advice": "Engage in yoga and other mild physical activity"
+    },
+    {
+      "advice": "Employ a healthy diet without fatty or fast foods"
+    },
+    {
+      "advice": "Increase your intake of fresh fruits and vegetables"
+    },
+    {
+      "advice": "A trip out of town  is a great idea"
+    }
+  ]
+}

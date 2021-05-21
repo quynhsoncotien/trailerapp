@@ -1,0 +1,27 @@
+{
+  "week": 4,
+  "reading_time": 120000,
+  "advices": [
+    {
+      "advice": "Take a home pregnancy test"
+    },
+    {
+      "advice": "Avoid special diets and limotherapy"
+    },
+    {
+      "advice": "Avoid stress and emotional strain"
+    },
+    {
+      "advice": "Stay away from tobacco and alcohol"
+    },
+    {
+      "advice": "Entirely avoid fatty and fast foods"
+    },
+    {
+      "advice": "Go for walks"
+    },
+    {
+      "advice": "Take vitamins"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "week": 1,
+  "reading_time": 120000,
+  "advices": [
+    {
+      "advice": "This starting period is the perfect time to give up smoking and alcohol"
+    },
+    {
+      "advice": "A daily intake of 400-800 micrograms of folic acid remains necessary at this stage"
+    },
+    {
+      "advice": "Adjust your routine and avoid physically exerting activity"
+    },
+    {
+      "advice": "Take vitamins as well"
+    },
+    {
+      "advice": "Your diet should not contain fast or fatty foods"
+    },
+    {
+      "advice": "If you're on medication, it is essential to consult your doctor"
+    },
+    {
+      "advice": "Avoid caffeine"
+    }
+  ]
+}

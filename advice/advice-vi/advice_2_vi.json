@@ -1,0 +1,27 @@
+{
+    "week": 2,
+   "read_time": 120000,
+   "advices": [
+     {
+       "advice": "Tránh thuốc lá và rượu"
+     },
+     {
+       "advice": "Uống từ 400-800 microgam axit folic mỗi ngày"
+     },
+     {
+       "advice": "Tránh chụp X-quang và lưu quang học"
+     },
+     {
+       "advice": "Tham gia vào yoga và các hoạt động thể chất nhẹ nhàng khác"
+     },
+     {
+       "advice": "Thực hiện một chế độ ăn uống lành mạnh không có chất béo hoặc thức ăn nhanh"
+     },
+     {
+       "advice": "Tăng cường ăn trái cây tươi và rau quả"
+     },
+     {
+       "advice": "Một chuyến đi ra khỏi thị trấn là một ý tưởng tuyệt vời"
+     }
+   ]
+}
