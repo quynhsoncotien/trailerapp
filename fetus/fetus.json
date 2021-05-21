@@ -1,0 +1,494 @@
+{
+  "1": [{
+    "week": 1,
+    "length_from": 0,
+    "length_to": 0,
+    "weight_from": 0,
+    "weight_to": 0,
+    "hcg": "≤ 5,5",
+    "fhr": "0",
+    "content": {
+      "en": "Like a ground cinnamon"
+    }
+  }],
+  "2": [{
+    "week": 2,
+    "length_from": 0,
+    "length_to": 0,
+    "weight_from": 0,
+    "weight_to": 0,
+    "hcg": "≤ 5,5",
+    "fhr": "0",
+    "content": {
+      "en": "Like a ground cinnamon"
+    }
+  }],
+  "3": [{
+    "week": 3,
+    "length_from": 0.1,
+    "length_to": 0.1,
+    "weight_from": 0.01,
+    "weight_to": 0.01,
+    "hcg": "≤ 5,5",
+    "fhr": "0",
+    "content": {
+      "en": "Like a poppy seed"
+    }
+  }],
+  "4": [{
+    "week": 4,
+    "length_from": 1,
+    "length_to": 1,
+    "weight_from": 0.08,
+    "weight_to": 0.08,
+    "hcg": "16 - 156",
+    "fhr": "0",
+    "content": {
+      "en": "Like a sesame seed"
+    }
+  }],
+  "5": [{
+    "week": 5,
+    "length_from": 4,
+    "length_to": 4,
+    "weight_from": 0.2,
+    "weight_to": 0.2,
+    "hcg": "101 - 4.870",
+    "fhr": "80 - 103",
+    "content": {
+      "en": "Like a rice seed"
+    }
+  }],
+  "6": [{
+    "week": 6,
+    "length_from": 8,
+    "length_to": 8,
+    "weight_from": 0.5,
+    "weight_to": 0.5,
+    "hcg": "1.110 - 31.500",
+    "fhr": "103 - 126",
+    "content": {
+      "en": "Like a blueberry"
+    }
+  }],
+  "7": [{
+    "week": 7,
+    "length_from": 13,
+    "length_to": 13,
+    "weight_from": 1,
+    "weight_to": 1,
+    "hcg": "2.560 - 82.300",
+    "fhr": "126 - 149",
+    "content": {
+      "en": "Like a sunflower seed"
+    }
+  }],
+  "8": [{
+    "week": 8,
+    "length_from": 20,
+    "length_to": 20,
+    "weight_from": 1.5,
+    "weight_to": 2,
+    "hcg": "23.100 - 151.000",
+    "fhr": "149 - 172",
+    "content": {
+      "en": "Like a raspberries"
+    }
+  }],
+  "9": [{
+    "week": 9,
+    "length_from": 30,
+    "length_to": 30,
+    "weight_from": 3,
+    "weight_to": 4,
+    "hcg": "27.300 - 233.000",
+    "fhr": "155 - 195",
+    "content": {
+      "en": "Like an olive"
+    }
+  }],
+  "10": [{
+    "week": 10,
+    "length_from": 45,
+    "length_to": 45,
+    "weight_from": 5,
+    "weight_to": 5,
+    "hcg": "20.900 - 291.000",
+    "fhr": "161-179",
+    "content": {
+      "en": "Like a kumquat"
+    }
+  }],
+  "11": [{
+    "week": 11,
+    "length_from": 68,
+    "length_to": 68,
+    "weight_from": 11,
+    "weight_to": 11,
+    "hcg": "20.900 - 291.000",
+    "fhr": "153 - 177",
+    "content": {
+      "en": "Like an apricot"
+    }
+  }],
+  "12": [{
+    "week": 12,
+    "length_from": 82,
+    "length_to": 82,
+    "weight_from": 19,
+    "weight_to": 19,
+    "hcg": "20.900 - 291.000",
+    "fhr": "150 - 174",
+    "content": {
+      "en": "Like a peach"
+    }
+  }],
+  "13": [{
+    "week": 13,
+    "length_from": 100,
+    "length_to": 100,
+    "weight_from": 31,
+    "weight_to": 31,
+    "hcg": "20.900 - 291.000",
+    "fhr": "147 - 171",
+    "content": {
+      "en": "Like a tomato"
+    }
+  }],
+  "14": [{
+    "week": 14,
+    "length_from": 123,
+    "length_to": 123,
+    "weight_from": 52,
+    "weight_to": 52,
+    "hcg": "6.140 - 103.000",
+    "fhr": "146 - 168",
+    "content": {
+      "en": "Like an orange"
+    }
+  }],
+  "15": [{
+    "week": 15,
+    "length_from": 142,
+    "length_to": 142,
+    "weight_from": 77,
+    "weight_to": 77,
+    "hcg": "6.140 - 103.000",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a pear"
+    }
+  }],
+  "16": [{
+    "week": 16,
+    "length_from": 164,
+    "length_to": 164,
+    "weight_from": 118,
+    "weight_to": 118,
+    "hcg": "6.140 - 103.000",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a pomegranate"
+    }
+  }],
+  "17": [{
+    "week": 17,
+    "length_from": 180,
+    "length_to": 180,
+    "weight_from": 160,
+    "weight_to": 160,
+    "hcg": "6.140 - 103.000",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a grapefruit"
+    }
+  }],
+  "18": [{
+    "week": 18,
+    "length_from": 203,
+    "length_to": 203,
+    "weight_from": 217,
+    "weight_to": 217,
+    "hcg": "6.140 - 103.000",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a radish"
+    }
+  }],
+  "19": [{
+    "week": 19,
+    "length_from": 221,
+    "length_to": 221,
+    "weight_from": 270,
+    "weight_to": 270,
+    "hcg": "4.720 - 80.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a carrot"
+    }
+  }],
+  "20": [{
+    "week": 20,
+    "length_from": 241,
+    "length_to": 241,
+    "weight_from": 345,
+    "weight_to": 345,
+    "hcg": "4.720 - 80.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a turnip"
+    }
+  }],
+  "21": [{
+    "week": 21,
+    "length_from": 259,
+    "length_to": 259,
+    "weight_from": 416,
+    "weight_to": 416,
+    "hcg": "4.720 - 80.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a pomelo"
+    }
+  }],
+  "22": [{
+    "week": 22,
+    "length_from": 278,
+    "length_to": 278,
+    "weight_from": 506,
+    "weight_to": 506,
+    "hcg": "4.720 - 80.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a corn"
+    }
+  }],
+  "23": [{
+    "week": 23,
+    "length_from": 297,
+    "length_to": 297,
+    "weight_from": 607,
+    "weight_to": 607,
+    "hcg": "4.720 - 80.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a coconut"
+    }
+  }],
+  "24": [{
+    "week": 24,
+    "length_from": 312,
+    "length_to": 312,
+    "weight_from": 733,
+    "weight_to": 733,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like an aubergine"
+    }
+  }],
+  "25": [{
+    "week": 25,
+    "length_from": 324,
+    "length_to": 324,
+    "weight_from": 844,
+    "weight_to": 844,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a bunch of grapes"
+    }
+  }],
+  "26": [{
+    "week": 26,
+    "length_from": 339,
+    "length_to": 339,
+    "weight_from": 969,
+    "weight_to": 969,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a swede or rutabaga"
+    }
+  }],
+  "27": [{
+    "week": 27,
+    "length_from": 355,
+    "length_to": 355,
+    "weight_from": 1135,
+    "weight_to": 1135,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a papaya"
+    }
+  }],
+  "28": [{
+    "week": 28,
+    "length_from": 372,
+    "length_to": 372,
+    "weight_from": 1319,
+    "weight_to": 1319,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a beet"
+    }
+  }],
+  "29": [{
+    "week": 29,
+    "length_from": 386,
+    "length_to": 386,
+    "weight_from": 1482,
+    "weight_to": 1482,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a head of broccoli"
+    }
+  }],
+  "30": [{
+    "week": 30,
+    "length_from": 399,
+    "length_to": 399,
+    "weight_from": 1636,
+    "weight_to": 1636,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a zucchini"
+    }
+  }],
+  "31": [{
+    "week": 31,
+    "length_from": 411,
+    "length_to": 411,
+    "weight_from": 1779,
+    "weight_to": 1779,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a pineapple"
+    }
+  }],
+  "32": [{
+    "week": 32,
+    "length_from": 423,
+    "length_to": 423,
+    "weight_from": 1930,
+    "weight_to": 1930,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a bunch of bananas"
+    }
+  }],
+  "33": [{
+    "week": 33,
+    "length_from": 436,
+    "length_to": 436,
+    "weight_from": 2088,
+    "weight_to": 2088,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a head of lettuce"
+    }
+  }],
+  "34": [{
+    "week": 34,
+    "length_from": 445,
+    "length_to": 445,
+    "weight_from": 2248,
+    "weight_to": 2248,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a melon"
+    }
+  }],
+  "35": [{
+    "week": 35,
+    "length_from": 454,
+    "length_to": 454,
+    "weight_from": 2414,
+    "weight_to": 2414,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a headed cabbage"
+    }
+  }],
+  "36": [{
+    "week": 36,
+    "length_from": 466,
+    "length_to": 466,
+    "weight_from": 2612,
+    "weight_to": 2612,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a courgette"
+    }
+  }],
+  "37": [{
+    "week": 37,
+    "length_from": 479,
+    "length_to": 479,
+    "weight_from": 2820,
+    "weight_to": 2820,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a torpedo melon"
+    }
+  }],
+  "38": [{
+    "week": 38,
+    "length_from": 490,
+    "length_to": 490,
+    "weight_from": 2992,
+    "weight_to": 2992,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a jackfruit"
+    }
+  }],
+  "39": [{
+    "week": 39,
+    "length_from": 500,
+    "length_to": 500,
+    "weight_from": 3170,
+    "weight_to": 3170,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a pumpkin"
+    }
+  }],
+  "40": [{
+    "week": 40,
+    "length_from": 510,
+    "length_to": 520,
+    "weight_from": 3250,
+    "weight_to": 4000,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+      "en": "Like a watermelon"
+      }
+  }],
+  "41": [{
+    "week": 41,
+    "length_from": 512,
+    "length_to": 522,
+    "weight_from": 3500,
+    "weight_to": 4000,
+    "hcg": "2.700 - 78.100",
+    "fhr": "110 - 160",
+    "content": {
+    "en": "Like a watermelon",
+      }
+  }]
+}
